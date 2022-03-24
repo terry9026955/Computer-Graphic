@@ -7,6 +7,8 @@
 void ChangeSize(int , int );					 
 void RenderScene(void);							 
 
+/***Lab1***/
+
 int main(int argc, char** argv) 
 { 
    glutInit(&argc, argv); 
